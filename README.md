@@ -3,7 +3,7 @@
 
 ## I'm currently working on becoming a Full-Stack Web Developer!🤓💻
 
-- 🔭 I'm currently a student for SEfactory! 😎
+- 🔭 I'm currently a student at SEfactory! 😎
 - 🌱 I’m currently learning everything (literally 😂)
 - 🥅 2022 Goals: get my life together 🤣
 - 🌊 I love morning and night time beach walks 
@@ -41,6 +41,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yousef-Baytam&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Yousef-Baytam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yousef-Baytam&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
