@@ -4,7 +4,7 @@
 ## I'm currently working on becoming a Full-Stack Web Developer!🤓💻
 
 - 🔭 I'm a student at SEfactory! 😎
-- 🌱 I’m trying learning everything (literally 😂)
+- 🌱 I’m trying to learn everything (literally 😂)
 - 🥅 2022 Goals: get my life together 🤣
 - 🌊 I love morning and night time beach walks 
 
